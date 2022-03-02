@@ -2,7 +2,7 @@
 
 Hello! I’m Chanda Chewe. I am passionate about Web Design and Development. I am a skilled full-stack developer
 and am specialised in:
-#### HTML5 #### CSS3 #### Bootstrap #### JavaScript #### jQuery #### Angularjs #### Ajax #### PHP #### PHP Codeigniter #### PHP Laravel. 
+#### HTML5, CSS3, Bootstrap, JavaScript, jQuery, Angularjs, Ajax, PHP, PHP Codeigniter and PHP Laravel. 
 I am a quick learner and a team worker that gets the job done
 
 ### Projects 🔭 
