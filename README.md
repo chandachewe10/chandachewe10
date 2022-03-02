@@ -1,14 +1,28 @@
 ### Hi there 👋 welcome to my GitHub Account 😃
 
 Hello! I’m Chanda Chewe. I am passionate about Web Design and Development. I am a skilled full-stack developer
-and am specialised in HTML5, CSS3, Bootstrap, JavaScript, jQuery, Angularjs, Ajax,PHP, PHP Codeigniter and PHP Laravel. 
-I am a quick learner and a team worker that gets the job done. I am also a Huawei Certified ICT Associate security
+and am specialised in:
+#### HTML5
+#### CSS3
+#### Bootstrap
+#### JavaScript
+#### jQuery
+#### Angularjs
+#### Ajax
+#### PHP
+#### PHP Codeigniter
+#### PHP Laravel. 
+I am a quick learner and a team worker that gets the job done
 
-🔭 I’m currently working on Projects involving Loan management systems, payroll mgt systems and payment gateway systems 
+### Projects 🔭 
+As seen from my repo's I’m currently working on Projects involving Loan management systems, payroll mgt systems and payment gateway systems Integrations, of course  
 using PHP and its frameworks 😘
-🌱 I like learning and exploring new technologies trending to enhance my skills. I’m currently learning Mobile App Development using Dart and Flutter
 
-📫 How to reach me? You can reach me on:
+### Learning 🌱 
+I like learning and exploring new technologies trending to enhance my skills. I’m currently learning Mobile App Development using Dart and Flutter
+
+### How to reach me 📫
+How to reach me? You can reach me on:
 Personal Website: https://www.google.com
 Google account: chewec03@gmail.com
 <!--
