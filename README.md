@@ -13,7 +13,7 @@ I like learning and exploring new technologies trending to enhance my skills. I�
 
 ### How to reach me 📫
 How to reach me? You can reach me on:
-Personal Website: https://www.google.com
+Personal Website: https://www.chandachewe.com
 Google account: chewec03@gmail.com
 <!--
 **chandachewe10/chandachewe10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
