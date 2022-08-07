@@ -9,7 +9,7 @@ I am a quick learner and a team worker that gets the job done
 As seen from my repo's I’m currently working on Projects involving Loan management systems, payroll mgt systems and payment gateway systems Integrations, of course using PHP and its frameworks 😘
 
 ### Learning 🌱 
-I like learning and exploring new technologies trending to enhance my skills. I’m currently learning Mobile App Development using JAVA ☺️ 
+I like learning and exploring new technologies trending to enhance my skills. I’m currently learning Mobile App Development using Dart and Flutter ☺️ 
 
 ### How to reach me 📫
 How to reach me? You can reach me on:
